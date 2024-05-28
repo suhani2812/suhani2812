@@ -4,9 +4,13 @@ A final year student pursuing Bachelors in Computer science studies from Vellore
 
 ## About Me
 👨🏻‍🎓 Vellore Institute of Technology, Chennai
+
 🤖 WebDev Enthusiast
+
 ⚒️ Focusing on Contributing to Open Source and several projects
+
 👨‍💻 Learning Java, React, Flutter and Flask
+
 📸 Photographer
 
 Here are some ideas to get you started:
