@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Suhani Goel</h1>
 <h3 align="left">A final year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
-<h3 align="left">About Me :
+<h3 align="left">
+ About Me :
  - 👨🏻‍🎓 Vellore Institute of Technology, Chennai
  -  🤖 Web Dev Enthusiast 
  -  ⚒️ Focusing on Contributing to Open Source and several projects 
