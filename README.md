@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Suhani Goel</h1>
-<h3 align="center">A final year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.About Me 👨🏻‍🎓 Vellore Institute of Technology, Chennai 🤖 Web Dev Enthusiast ⚒️ Focusing on Contributing to Open Source and several projects 👨‍💻 Learning Java, React, Flutter and Flask 📸 Photographer</h3>
+<h1 align="left">Hi 👋, I'm Suhani Goel</h1>
+<h3 align="center">A final year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
+  About Me 👨🏻‍🎓 Vellore Institute of Technology, Chennai 🤖 Web Dev Enthusiast ⚒️ Focusing on Contributing to Open Source and several projects 👨‍💻 Learning Java, React, Flutter and Flask 📸 Photographer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani2812&label=Profile%20views&color=0e75b6&style=flat" alt="suhani2812" /> </p>
 
