@@ -1,13 +1,3 @@
 ## Hi there
-
-
-Hi Waving hand animated gif, I'm Manu Mishra
-A 3rd-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
-
-About Me
-👨🏻‍🎓 Vellore Institute of Technology, Chennai
-🤖 Web & UI/UX Enthusiast
-⚒️ Focusing on Contributing to Open Source and several projects
-👨‍💻 Learning Java, React, Flutter and Flask
-🛸 Robotics enthusiast
-📸 Photographer
+ This side Suhani Goel , a final year student from  VIT Chennai persuing my bachelors in Computer Science and Engineering !
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhani2812)](https://github.com/anuraghazra/github-readme-stats)
