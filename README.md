@@ -1,2 +1,13 @@
-## Hi there ![image](https://github.com/suhani2812/suhani2812/assets/97598197/23ce9b47-31af-45f2-8118-e027c3cebe95)
+## Hi there
 
+
+Hi Waving hand animated gif, I'm Manu Mishra
+A 3rd-year student pursuing Bachelors in Computer science studies from Vellore Institute of Technology Chennai @VIT.
+
+About Me
+👨🏻‍🎓 Vellore Institute of Technology, Chennai
+🤖 Web & UI/UX Enthusiast
+⚒️ Focusing on Contributing to Open Source and several projects
+👨‍💻 Learning Java, React, Flutter and Flask
+🛸 Robotics enthusiast
+📸 Photographer
