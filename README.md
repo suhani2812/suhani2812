@@ -62,7 +62,8 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=suhani2812&count_private=true&theme=radical&show_icons=true" />
     <br>
     <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhani2812&layout=compact&theme=radical&show_icons=true)](https://github.com/suhani2812/github-readme-stats)
+   ![suhani2812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhani2812&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+    ![suhani2812's Stats](https://github-readme-stats.vercel.app/api?username=suhani2812&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   </a>
 </p>
 
