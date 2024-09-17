@@ -1,79 +1,28 @@
-<!-- README FILE GITHUB -->
 
-<!-- My Template Image -->
-<!-- ![MastHead](https://github.com/manumishra12/manumishra12/blob/main/Intro.jpg) -->
+<h1 >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif" height="45" width="45" />, I'm Suhani Goel
+</h1>
 
-<h1>Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Suhani Goel</h1>
-
-<!-- About Me -->
-A final-year student pursuing a Bachelor’s in Computer Science from Vellore Institute of Technology, Chennai @VIT.
-
-<h3 style="color:yellow;">About Me</h3>
-<div>
-  👨🏻‍🎓 Vellore Institute of Technology, Chennai<br>
-  🤖 Web Enthusiast<br>
-  ⚒️ Contributing to Open Source and various projects<br>
-  👨‍💻 Learning Flutter
-</div>
-
-<hr>
-<br>
-
-You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="25px" style="margin-bottom: -5px;"> :
-<p align="left">
-  <a href="https://www.linkedin.com/in/suhani-goel-70683021b/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://hashnode.com/@SuhaniGoel2812"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-  <a href="mailto:suhani281202goel@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/suhani_goell/"><img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/Suhani_Goel"><img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-</p>
-<br>
-
-<!--My Skills and Current Learning Badges  -->
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
-
-<h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
-<div>
-
-
-[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   
-  
  
 
-<!--  Badges -->
-<p align="center"> 
 
-<h3 style="color:yellow;margin-bottom: 15px;">Currently exploring and learning 👨‍💻 :</h3>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</p>
+<!--About Me -->
+A final student pursuing Bachelors in Computer Science and  Engineering from Vellore Institute of Technology Chennai @VIT.
 
-<p>
-  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />
-  <a href="https://github.com/suhani2812">
-    <img alt="stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=suhani2812&theme=radical">
-    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=suhani2812&count_private=true&theme=radical&show_icons=true" />
-    <br>
-    <br>
-  
-  </a>
-</p>
+# 💫 About Me:
+👨🏻‍🎓 Vellore Institute of Technology, Chennai<br>🤖 Web & UI/UX Enthusiast<br>⚒️ Focusing on Contributing to Open Source and several projects<br>👨‍💻 Learning  Flutter <br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhani_goell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-goel-70683021b/) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![suhani2812's Stats](https://github-readme-stats.vercel.app/api?username=suhani2812&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![suhani2812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhani2812&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![suhani2812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhani2812&theme=vue-dark&hide_border=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Adityaagrawal102&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<hr>
-<br>
-
-
-
-<!-- GitHub Cat Climbing -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
