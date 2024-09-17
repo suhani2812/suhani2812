@@ -29,17 +29,19 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 </p>
 <br>
 
-<!-- My Skills and Current Learning Badges -->
-<h2>Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="40px"></h2>
+<!--My Skills and Current Learning Badges  -->
+<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
 
-<h3 style="color:yellow;margin-bottom: 15px;">Mostly work with ⚒️</h3>
+<h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 <div>
-  [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white)](#)
-  [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#)
-  [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-</div>
+
+
+[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   
+  
+ 
+
+<!--  Badges -->
+<p align="center"> 
 
 <h3 style="color:yellow;margin-bottom: 15px;">Currently exploring and learning 👨‍💻 :</h3>
 <p>
