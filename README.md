@@ -73,10 +73,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <hr>
 <br>
 
-<!-- Snake Grid -->
-<p align="center">
-  <img src="https://github.com/suhani2812/suhani2812/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 <!-- GitHub Cat Climbing -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
