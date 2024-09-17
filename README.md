@@ -67,16 +67,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 </p>
 # My Project
 
-## GitHub Stats
 
-![GitHub stats]![suhani2812's Stats](https://github-readme-stats.vercel.app/api?username=suhani2812&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages]![suhani2812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhani2812&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-## Repository Stats
-
-![Forks](https://img.shields.io/github/forks/yourusername/your-repo?style=social)
-![Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
-![Issues](https://img.shields.io/github/issues/yourusername/your-repo)
 
 
 <hr>
