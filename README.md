@@ -184,8 +184,6 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 
 
 
-<!-- Contribution Tracking Chart -->
-<!--[![Manu's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhani2812&theme=react-dark)](https://github.com/suhani2812/github-readme-activity-graph)-->
 
 
 
