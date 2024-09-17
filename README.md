@@ -19,7 +19,7 @@ A Final-year student pursuing Bachelors in Computer science studies from Vellore
 👨🏻‍🎓 Vellore Institute of Technology, Chennai
 <br>🤖 Web  Enthusiast
 <br>⚒️ Focusing on Contributing to Open Source and several projects
-<br>👨‍💻 Learning Java, React, Flutter and Flask
+<br>👨‍💻 Learning  Flutter 
 
 </div>
 
@@ -30,7 +30,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 <p align="left">
 <a href="https:"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://hashnode.com/@SuhaniGoel2812"> <img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="mailto:connectsuhani281202goel@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:suhani281202goel@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/suhani_goell/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/Suhani_Goel"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
