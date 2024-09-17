@@ -153,7 +153,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
  
 <!--
  Mail ID Links  
- 📫 How to reach me **connectsuhani281202goel@gmail.com**
+ 📫 How to reach me **suhani281202goel@gmail.com**
  <br><br>
  <hr>
 -->
@@ -212,7 +212,7 @@ You can find me here <img src="https://github.com/hariketsheth/hariketsheth/blob
 
 <!-- #Snake contribution -->
 <!-- <p align="center">
-  <img src="https://github.com/manumishra12/suhani2812/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/suhani2812/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
 
 
