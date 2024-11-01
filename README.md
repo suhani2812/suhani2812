@@ -9,7 +9,7 @@
 A final student pursuing Bachelors in Computer Science and  Engineering from Vellore Institute of Technology Chennai @VIT.
 
 # 💫 About Me:
-👨🏻‍🎓 Vellore Institute of Technology, Chennai<br>🤖 Web & UI/UX Enthusiast<br>⚒️ Focusing on Contributing to Open Source and several projects<br>👨‍💻 Learning  Flutter <br>
+👨🏻‍🎓 Vellore Institute of Technology, Chennai<br>🤖 Web & AI/ML Enthusiast<br>⚒️ Focusing on Contributing to Open Source and several projects<br>👨‍💻 Learning  Flutter <br>
 
 
 ## 🌐 Socials:
