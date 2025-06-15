@@ -55,8 +55,8 @@ Other:
 ⚙️ Microservices + APIs
 
 🌍 Let’s Connect
-### 🌍 Let’s Connect
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/suhani-goel-70683021b/)  
+💻 [GitHub Profile](https://github.com/suhani2812)  
+🌐 [Portfolio](https://bold.pro/my/suhani-goel)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhani-goel-70683021b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/suhani2812)
-[![Portfolio](https://bold.pro/my/suhani-goel)
+
