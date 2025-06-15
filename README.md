@@ -45,5 +45,18 @@ Tools & Cloud:
 Other:
   - Arduino, SAP PL/SQL, Notion
 
+✨ Currently Learning & Exploring
+🧠 LLMs & Transformers
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suhani2812&show_icons=true&theme=tokyonight" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=suhani2812&theme=tokyonight" width="45%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suhani2812&theme=tokyo-night&hide_border=true" /> </p>
+🌐 Next.js + SSR
+
+📱 UI/UX for Accessibility
+
+⚙️ Microservices + APIs
+
+🌍 Let’s Connect
+### 🌍 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhani-goel-70683021b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/suhani2812)
+[![Portfolio](https://bold.pro/my/suhani-goel)
