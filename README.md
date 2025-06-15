@@ -52,7 +52,7 @@ Other:
 
 📱 UI/UX for Accessibility
 
-⚙️ Microservices + APIs
+
 
 🌍 Let’s Connect
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/suhani-goel-70683021b/)  
