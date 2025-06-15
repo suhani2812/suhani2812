@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Curious Mind | 🔬 Research Enthusiast | 🛠️ Tech Tinkerer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF61C7&center=true&vCenter=true&width=435&lines=Building+meaningful+projects.;Passionate+about+AI+%26+innovation.;Thriving+at+the+intersection+of+code+%26+creativity." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF61C7&center=true&vCenter=true&width=435&lines=Building+meaningful+projects.;Passionate+about+AI+%26+innovation.;
+    Thriving+at+the+intersection+of+code+%26+creativity." />
 </p>
 
 ---
