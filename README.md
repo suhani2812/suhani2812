@@ -24,7 +24,6 @@
 |-----------|----------------|
 | [**EfficientNetDR**](https://github.com/suhani2812/EfficientNetDR) | Classifies diabetic retinopathy levels using EfficientNet-B0 |
 | [**MedAI Vision**](https://github.com/suhani2812/medai-vision) | AI-powered tool for medical image diagnostics |
-| [**WayAble**](https://github.com/suhani2812/wayable) | Accessibility-focused HCI solution to help users find friendly locations |
 | [**Smart Solar Tracker**](https://github.com/suhani2812) | Arduino-based panel that adjusts to sun’s angle & temperature |
 
 ---
